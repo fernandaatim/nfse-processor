@@ -15,8 +15,8 @@ Toda a automação depende de arquivos locais fornecidos pelo usuário, e **não
   - NFSe de Joinville: Redução de cerca de **2 horas para segundos**, eliminando a necessidade de baixar cada NF individualmente e realizar separações manuais.
 
 ### Redução de Erros
-  - Padronização automáticas conforme regras específicas por localidade.
-  - Eliminação de erros de digitação e organizaçao incorreta dos arquivos.
+  - Padronização automática conforme regras específicas por localidade.
+  - Eliminação de erros de digitação e organização incorreta dos arquivos.
 
 ### Confiabilidade e Reprodutibilidade
   - Processo pode ser executado por qualquer outra pessoa da equipe, mantendo os mesmos padrões e resultados.
